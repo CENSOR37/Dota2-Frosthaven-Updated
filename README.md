@@ -36,6 +36,13 @@ dota_launch_custom_game winter_2018_updated winter
 - Round 5, not able to control penguin.
 - Round 7, Broodmother spider children doesn't spawn.
 
+## Resources
+
+- [winter_2018 removed](https://steamdb.info/depot/373301/history/?changeid=M:3772273273387236783)
+- [winter_2018 before remove](https://steamdb.info/depot/373301/history/?changeid=M:691650588065431639)
+
+
+
 # License
 
 ### Most of the game information and asset are rights reserved by Valve Corporation.
